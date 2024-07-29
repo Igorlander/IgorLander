@@ -1,8 +1,9 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h4 align="left">
+### Hi 👋! My name is Igor<br><br>I am a passionate developer with extensive experience in back-end technologies, particularly in Java. My main focus is on creating robust and scalable solutions using a variety of cutting-edge tools and platforms.<br><br>
+#### Experience in Java<br><br>- **Back-end Development**: Expert in developing back-end applications with Java.<br>- **Technologies**: Proficient in Docker for containerization, Kubernetes for orchestration, AWS for cloud solutions, and Kafka for stream processing and messaging.<br>- **Databases**: Skilled in working with MySQL, PostgreSQL, and MongoDB.<br>- **Architectures**: Experienced in both microservices and monolithic architectures.<br>- **Agile Methodologies**: Experienced in working with agile methodologies like Scrum and Kanban to deliver high-quality projects efficiently.<br><br>
+#### Artificial Intelligence with Python<br><br>In addition to my Java background, I am also a data scientist and AI developer with strong skills in Python. My competencies include:<br><br>- **Machine Learning and Deep Learning**: Developing and implementing models using libraries such as TensorFlow, Keras, and scikit-learn.<br>- **Data Analysis**: Experience in manipulating and analyzing large volumes of data using pandas, NumPy, and other tools.<br>- **AI Projects**: Creating intelligent solutions and actionable insights from complex data.<br><br>
+#### Highlighted Projects<br><br>- **Order Processing System**: Developed a high-performance order processing system using Java, Docker, Kubernetes, AWS, and Kafka, resulting in significant operational efficiency improvements.<br>- **Sales Forecasting Model**: Created a sales forecasting model with Python that helped a company optimize its inventory and increase forecast accuracy by 30%.<br><br>
+#### Connect with Me<br><br>Feel free to explore my repositories and collaborate on projects. I am always open to new learning opportunities and partnerships.<br><br>---</h4>
 
 ###
 
@@ -40,23 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
@@ -106,12 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
